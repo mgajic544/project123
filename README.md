@@ -5,4 +5,4 @@ There are some things that are not clear.
 2. How do i use .md files
 3. What is rebase?
 
-Example of some link [*link*](https://docs.gitlab.com/ee/gitlab-basics/)
+Example of some [*link*](https://docs.gitlab.com/ee/gitlab-basics/)

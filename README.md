@@ -6,3 +6,4 @@ There are some things that are not clear.
 3. What is rebase?
 
 Example of some [*link*](https://docs.gitlab.com/ee/gitlab-basics/)
+

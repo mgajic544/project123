@@ -2,7 +2,7 @@
 ### This is the first project, made to figure out git command basics.
 There are some things that are not clear.
 
-1. How do I upload folder
+1. How do I upload folder done
 2. How do i use .md files
 3. What is rebase?
 4. Need to read about git

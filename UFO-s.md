@@ -99,4 +99,6 @@ The pilot, at an altitude of 37,000 feet reported seeing a long cylindrical obje
 | [Clayton](https://en.wikipedia.org/wiki/Clayton,_New_Mexico "Clayton, New Mexico"), [New Mexico](https://en.wikipedia.org/wiki/New_Mexico "New Mexico") | United States |
 
 ![Battle for Los Angeles](https://lh3.googleusercontent.com/proxy/scNdjQzW8UyQs3vR_M8TUcXeVE5JuqerhTOcbM4xlcuE49zxJ138gKFeULuEVU5ydZ_qxiLSI6Sb1vuv5lU)
+
+
 Battle for Los Angeles 1942. 

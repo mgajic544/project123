@@ -90,7 +90,7 @@ Brazilian Armed Forces](https://en.wikipedia.org/wiki/Brazilian_Armed_Forces "Br
 |1996-01-20|  [Varginha UFO incident](https://en.wikipedia.org/wiki/Varginha_UFO_incident "Varginha UFO incident")|
 |--|--|
 | [Varginha](https://en.wikipedia.org/wiki/Varginha "Varginha") |  [Brazil](https://en.wikipedia.org/wiki/Brazil)|
-
+~~~
 ## 21st century
 ### Pilot's UFO sighting over New Mexico
 The pilot, at an altitude of 37,000 feet reported seeing a long cylindrical object that almost looked like a "cruise missile type of thing" moving really fast right over the top of them according to published audio. [American Airlines](https://en.wikipedia.org/wiki/American_Airlines "American Airlines") confirmed that the radio transmission came from flight 2292. [FAA](https://en.wikipedia.org/wiki/Federal_Aviation_Administration "Federal Aviation Administration") a few days later stated: "A pilot reported seeing an object over New Mexico shortly after noon local time on Sunday, Feb. 21, 2021. FAA air traffic controllers did not see any object in the area on their radarscopes."

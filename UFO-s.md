@@ -61,7 +61,7 @@ On February 22 (or March 24) in 1803 local fishermen reportedly saw a vessel dri
 
 
 |1803-02-22 or 03-24|[Utsuro-bune at Haratono-hama](https://en.wikipedia.org/wiki/Utsuro-bune "Utsuro-bune")
-|--|--|--|
+|--|--|
 Eastern shore|Japan|
 
 ## 1901–1949

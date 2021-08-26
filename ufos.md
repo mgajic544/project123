@@ -1,3 +1,4 @@
+﻿
 
 # **List of reported UFO sightings**
 

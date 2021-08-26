@@ -8,8 +8,8 @@
 
 ### Tulli Papyrus
 
-###  According to the disputed Tulli Papyrus, the scribes of the pharaoh Thutmose III reported that "fiery disks" were encountered floating over the skies. The Condon Committee disputed the legitimacy of the Tulli Papyrus stating:
->### "Tulli was taken in and that the papyrus is a fake." 
+According to the disputed Tulli Papyrus, the scribes of the pharaoh Thutmose III reported that "fiery disks" were encountered floating over the skies. The Condon Committee disputed the legitimacy of the Tulli Papyrus stating:
+> "Tulli was taken in and that the papyrus is a fake." 
 
 
 ![link](https://lh3.googleusercontent.com/proxy/uOhuTkQzeIoiK8-cQ7f8PKhzCdxkShfuhitQrqt0_6ZUGR2uqPRD-ITY2T7LWq8iB9qvr95T9qh_ZTvsnJxJSlQN) 

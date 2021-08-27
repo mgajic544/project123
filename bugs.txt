@@ -1,0 +1,18 @@
+ 2.1.4 ### Single click opens repo, double click does not work
+
+ 2.2   ### Instead of username and password there is only token field
+
+ If name of created repository is longer than 50 char, it cannot be added to puzzles cloud
+
+3.2.5 ### Nothing mentioned in this text happens when i try to add template that is not template
+ 
+ 3.2.6 ### whenever a new template is added, it shows message that file with that name already exists...
+ ### 34 1.1.2 single click opens preview
+ ### 34 1.3.4 There is no message to save files when changing branch or repo
+ ###35 6.1.2 Nothing from this section works
+ ### 35 Even when you configure template variables and click on save, there are still not configured sign... It is fixed by reloading a page
+ ###35 7.1.1 not the case, probabbly changed
+###35 7.1.3 nothing is green or red or marked...
+### 35 push does not work
+### publish does not work
+ When you preview document and then logout, preview document stays on the page.

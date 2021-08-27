@@ -1,0 +1,87 @@
+Creating a repositorry|Dashboard
+
+Current Behavior
+It is not possible to create repository on Puzzles Cloud if remote repository has name longer than 50 characters.
+
+Expected Behavior
+To be able to add repository.
+
+Steps to reproduce
+1.Create repository on github that has a name that is longer than 50 characters. 
+2.Go to Puzzles cloud dashboard and add new repository
+3.Enter GitHub repository link in URL field
+4.Enter Token
+5. Click on create
+
+
+
+
+Dashboard|Creating invalid template
+
+Current behavior 
+User is able to add invalid template
+
+expected behavior
+User should not be able to add invalid template
+
+Steps to reproduce
+1. Create invalid template
+2. In dashboard view click on add template
+3. Select invalid file
+
+
+
+
+Dashboard| Creating template
+
+
+current behavior
+When new template is added popup that says that name allready exists appears, but there is no file with the same name.
+
+
+expected behavior 
+To create a file without being asked to override file that does not exist.
+
+1. Go to dashboard view
+2. Make new template
+3. Enter name 
+4. click Create
+
+
+ToC|save|preview
+
+Current behavior 
+In ToC when you click on preview document and than logout, preview document stays open.
+
+Expected behavio
+Preview should close after loging out
+
+Steps to reproduce
+
+1. Go to Toc
+2. Click on save,preview
+3. Without closing preview window, click on logout
+
+ Toc|save|download|Bad template causes error when user tries to download file
+ 
+ Current behavior
+ I am able to upload invalid template and to use it. When I try to download file, error appears.
+ 
+ ```{
+  "message" : "error.internalServerError",
+  "description" : "Internal server error",
+  "fieldErrors" : null
+}
+	```
+ Expected behavior
+ To not be able to add or use invalid tamplate
+ 
+ Steps to reproduce
+ 1.Add invalid template(empty docx document)
+ 2.Dnd some .md file 
+ 3.Go to save/download
+ 
+ 
+ 
+ 
+

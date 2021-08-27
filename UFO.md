@@ -141,8 +141,9 @@ military and civilian radar operators.”
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
 
-
-**BOLD** example
+**EXAMPLE**
+*Example*
+***EXAMPLE***
 
 
 

@@ -104,7 +104,7 @@ Battle for Los Angeles 1942. :joy: :thumbsup:
 
 So which one of these stories seems legit to you?
 
-- [ ] Tulli Papyrus
+- [x] Tulli Papyrus
 - [ ] Flame-like  pithoi  from the sky
 - [ ] Nuremberg
 - [ ] Japan ufo

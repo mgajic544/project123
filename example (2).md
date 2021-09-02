@@ -83,6 +83,9 @@ This is ![LINK](https://www.google.com)
 ***THIS SHOULD BE BOLD ITALIC TEXT***
 	
 
+So I just wonna add some pics, so here is [link](https://www.politika.rs/thumbs/upload/User/Image/2015_11//672x672_Rados-Bajic-web.jpg)
+	
+	
 ***BOLD***
 	
 This text is ***really important***.
@@ -101,7 +104,7 @@ This is really***very***important text.
 **SOME BOLD TEXT** 
 
 	
-[mickey](https://upload.wikimedia.org/wikipedia/sr/7/7f/Mickey_Mouse.svg)
+![mickey](https://upload.wikimedia.org/wikipedia/sr/7/7f/Mickey_Mouse.svg)
 	
 	
 This is Mickey

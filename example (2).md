@@ -83,7 +83,7 @@ This is ![LINK](https://www.google.com)
 ***THIS SHOULD BE BOLD ITALIC TEXT***
 	
 
-So I just wonna add some pics, so here is [link](https://www.politika.rs/thumbs/upload/User/Image/2015_11//672x672_Rados-Bajic-web.jpg)
+So I just wonna add some pics, so here is ![link](https://www.politika.rs/thumbs/upload/User/Image/2015_11//672x672_Rados-Bajic-web.jpg)
 	
 	
 ***BOLD***

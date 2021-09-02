@@ -98,5 +98,8 @@ This is really***very***important text.
 
 
 
-**SOME BOLD TEXT**
+**SOME BOLD TEXT** 
 
+	
+![mickey](https://upload.wikimedia.org/wikipedia/sr/7/7f/Mickey_Mouse.svg)
+	

@@ -19,7 +19,7 @@ List item
  lets make a table, simple one for start
 	
 |some|text|example|
-|:--:|:--:|:--:|--|
+|:--:|:--:|:--:|
 |text|some|example|
 
 	

@@ -17,14 +17,16 @@ List item
 
  text
  lets make a table, simple one for start
+	
 |some|text|example|
 |:--:|:--:|:--:|--|
 |text|some|example|
 
+	
 >I need spaceeee
-	>a
-	>A
-	>>A
+>a
+>A
+>>A
 	
 1. first
 2. second 

@@ -58,6 +58,12 @@ Residents of Nuremberg saw what they described as an aerial battle, followed by 
 ##### 19th century
 
 On February 22 (or March 24) in 1803 local fishermen reportedly saw a vessel drifting in close by waters. They say when they investigated it, "a beautiful young woman" they described as having red and white hair and dressed in strange clothes appeared. The fishermen claim she held a square box "that no one was allowed to touch" and she spoke to them in a language they never heard before. Some UFO believers think this story was a credible document of a close encounter of the third kind in Japan. Historians and Ethnologists consider it folklore.
+##### 19th century
+
+On February 22 (or March 24) in 1803 local fishermen reportedly saw a vessel drifting in close by waters. They say when they investigated it, "a beautiful young woman" they described as having red and white hair and dressed in strange clothes appeared. The fishermen claim she held a square box "that no one was allowed to touch" and she spoke to them in a language they never heard before. Some UFO believers think this story was a credible document of a close encounter of the third kind in Japan. Historians and Ethnologists consider it folklore.
+##### 19th century
+
+On February 22 (or March 24) in 1803 local fishermen reportedly saw a vessel drifting in close by waters. They say when they investigated it, "a beautiful young woman" they described as having red and white hair and dressed in strange clothes appeared. The fishermen claim she held a square box "that no one was allowed to touch" and she spoke to them in a language they never heard before. Some UFO believers think this story was a credible document of a close encounter of the third kind in Japan. Historians and Ethnologists consider it folklore.
 
 
 |1803-02-22 or 03-24|[Utsuro-bune at Haratono-hama](https://en.wikipedia.org/wiki/Utsuro-bune "Utsuro-bune")

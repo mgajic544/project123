@@ -14,10 +14,6 @@
 
 ![link](https://lh3.googleusercontent.com/proxy/uOhuTkQzeIoiK8-cQ7f8PKhzCdxkShfuhitQrqt0_6ZUGR2uqPRD-ITY2T7LWq8iB9qvr95T9qh_ZTvsnJxJSlQN) 
 
-|Tulli Papyrus|ca. 1440 BCE|
-|--|--|
-|[Lower Egypt](https://en.wikipedia.org/wiki/Lower_Egypt "Lower Egypt")|[Ancient Egypt](https://en.wikipedia.org/wiki/Ancient_Egypt "Ancient Egypt")|
-
 
 
 

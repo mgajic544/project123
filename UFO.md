@@ -48,6 +48,12 @@ Residents of Nuremberg saw what they described as an aerial battle, followed by 
 |--|--|
 | Nuremberg | Holy Roman Empire |
 
+#### 16th–17th centuries
+Residents of Nuremberg saw what they described as an aerial battle, followed by the appearance of a large black triangular object and then a large crash outside of the city. The broadsheet claims that witnesses observed hundreds of spheres, cylinders and other odd-shaped objects that moved erratically overhead.
+|  1561-04-14 |1561 celestial  phenomenon over Nuremberg] "1561 celestial phenomenon over Nuremberg"  |
+|--|--|
+| Nuremberg | Holy Roman Empire |
+
  
 
 

@@ -23,6 +23,8 @@
 
 
 ### Classical antiquity
+### Classical antiquity
+### Classical antiquity
 ### Flame-like  pithoi  from the sky
 
 According to [Plutarch](https://en.wikipedia.org/wiki/Plutarch "Plutarch"), a Roman army commanded by [Mithridates VI of Pontus](https://en.wikipedia.org/wiki/Mithridates_VI_of_Pontus "Mithridates VI of Pontus") when "all on a sudden, the sky burst asunder, and a huge, flame-like body was seen to fall between the two armies. In shape, it was most like a wine-jar, and in colour, like molten silver." Plutarch reports the shape of the object as like a wine-jar ([pithos](https://en.wikipedia.org/wiki/Pithos "Pithos")). The apparently silvery object was reported by both armies.
